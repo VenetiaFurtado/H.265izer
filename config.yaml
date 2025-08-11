@@ -1,0 +1,4 @@
+input_folder: /videos
+scan_interval_minutes: 1
+max_conversions_per_run: 2
+ffmpeg_path: /usr/bin/ffmpeg
